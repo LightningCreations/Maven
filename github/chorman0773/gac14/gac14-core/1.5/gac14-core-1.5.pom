@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>github.chorman0773.gac14</groupId>
+  <artifactId>gac14-core</artifactId>
+  <version>1.5</version>
+  <dependencies>
+    <dependency>
+      <groupId>net.minecraftforge</groupId>
+      <artifactId>forge</artifactId>
+      <version>1.15.1-30.0.41_mapped_snapshot_20200116-1.14.3_at_d37576d18fdd0744a46ad3d32493f499f7242a27</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.minecraftforge</groupId>
+      <artifactId>forge</artifactId>
+      <version>1.15.1-30.0.41_mapped_snapshot_20200116-1.14.3_at_d37576d18fdd0744a46ad3d32493f499f7242a27</version>
+      <classifier>launcher</classifier>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

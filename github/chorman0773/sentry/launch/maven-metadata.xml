@@ -3,11 +3,13 @@
   <groupId>github.chorman0773.sentry</groupId>
   <artifactId>launch</artifactId>
   <versioning>
-    <release>1.1</release>
+    <latest>1.1-SNAPSHOT-2020-06-25T16:33:18.323205Z</latest>
+    <release>1.1-SNAPSHOT-2020-06-25T16:33:18.323205Z</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
+      <version>1.1-SNAPSHOT-2020-06-25T16:33:18.323205Z</version>
     </versions>
-    <lastUpdated>20200302040427</lastUpdated>
+    <lastUpdated>20200625163321</lastUpdated>
   </versioning>
 </metadata>
